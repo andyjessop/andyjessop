@@ -6,5 +6,7 @@
   - [Writing Integration Tests that Run Inside a Unit-testing Framework like Jest](https://dev.to/andyjessop/writing-integration-tests-that-run-inside-a-unit-testing-framework-like-jest-48f8) 
 - 👯 I'm interested in tooling, infrastructure, productivity, and of course...AI.
 - Some tools I'm currently into:
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,githubactions,deno,devto,ai,lit,postgres,react,supabase,ts,workers&perline=8)](https://skillicons.dev) 
+
+    [![My Skills](https://skillicons.dev/icons?i=cloudflare,githubactions,deno,devto,ai,lit,postgres,react,supabase,ts,workers&perline=11)](https://skillicons.dev) 
+
 - 💬 Get in touch if you want to discuss any of my projects or interests.
