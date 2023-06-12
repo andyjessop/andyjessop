@@ -13,5 +13,4 @@
 
     [![My Skills](https://skillicons.dev/icons?i=docker,gcp,grafana,kubernetes,prometheus,rust,py,tensorflow,wasm&perline=9)](https://skillicons.dev) 
     
-- I'm also interested in generally following these roadmaps: [DevOps](https://roadmap.sh/devops), [System Design](https://roadmap.sh/system-design)
 - 💬 Get in touch if you want to discuss any of my projects or interests.
