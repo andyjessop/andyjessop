@@ -2,7 +2,7 @@
 
 I'm Andy Jessop, a passionate software engineer, focussing on front-end development.
 
-I _love_ quality, and _loathe_ the throwaway culture. My motto is "build once, build right"; if you build it right the first time, you don't need to keep on revisiting and rebuilding.
+I _love_ quality, and _loathe_ the throwaway culture. I believe you should "build it once, build it right"; if you build it right the first time, you don't need to keep on revisiting and rebuilding.
 
 Crucially, this means #useThePlatform. When you build with native tools, rather than libraries, you build for the long term. You build to last.
 
