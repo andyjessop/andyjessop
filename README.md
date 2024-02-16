@@ -7,10 +7,10 @@
 - 👯 I'm interested in tooling, infrastructure, productivity, and of course...AI.
 - Some tools I'm currently into:
 
-    [![My Skills](https://skillicons.dev/icons?i=cloudflare,githubactions,deno,devto,ai,lit,postgres,react,supabase,ts,workers&perline=11)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=cloudflare,githubactions,deno,devto,lit,postgres,react,supabase,ts,workers&perline=11)](https://skillicons.dev) 
 
 - And some that I want to get more into over the coming months and years:
 
-    [![My Skills](https://skillicons.dev/icons?i=docker,gcp,grafana,kubernetes,prometheus,rust,py,tensorflow,wasm&perline=9)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=docker,gcp,rust,py,wasm&perline=9)](https://skillicons.dev) 
     
 - 💬 Get in touch if you want to discuss any of my projects or interests.
