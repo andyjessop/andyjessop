@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [a front-end framework](https://github.com/andyjessop/pivot) that encourages long-lived, decoupled code for SPAs.
-- 🌱 I’m also starting to write down thoughts, ideas, and experiences. You can find them on my DEV.to page [here](https://dev.to/andyjessop).
+- 🌱 I’m starting to write down thoughts, ideas, and experiences. You can find them on my DEV.to page [here](https://dev.to/andyjessop).
+  - [Creating a Smart Second Brain: Leveraging Cloudflare Workers, Vectorize, and OpenAI](https://dev.to/andyjessop/building-an-ai-powered-second-brain-in-a-cloudflare-worker-with-cloudflare-vectorize-and-openai-23di)
+  - [OKRs: A Framework for Avoiding Micromanagement and Unlocking Creativity](https://dev.to/andyjessop/okrs-a-framework-for-avoiding-micromanagement-and-unlocking-creativity-2kpb)
+  - [Drastically Cut CI Time in an Nx Monorepo with Remote Task Caching: A Step-by-Step Guide](https://dev.to/andyjessop/drastically-cut-ci-time-with-remote-task-caching-a-step-by-step-guide-4in8)
   - [Reducing Time Spent in CI to Almost Nothing, with Nx Cloud](https://dev.to/andyjessop/reducing-time-spent-in-ci-to-almost-nothing-with-nx-cloud-3hlc)
   - [Writing Integration Tests that Run Inside a Unit-testing Framework like Jest](https://dev.to/andyjessop/writing-integration-tests-that-run-inside-a-unit-testing-framework-like-jest-48f8) 
 - 👯 I'm interested in tooling, infrastructure, productivity, and of course...AI.
