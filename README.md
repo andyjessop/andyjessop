@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Andy Jessop, a passionate software engineer, focussing on front-end development. I _love_ quality, and _loathe_ the throwaway culture. My motto is "build once, build right". Ok, it's not that catchy, but you get what I mean; if you build it right the first time, you don't need to keep on revisiting and rebuilding. A core tactic to achieve this strategy is to #useThePlatform. When you build with native tools, rather than libraries, you build for the long term. You build to last.
+I'm Andy Jessop, a passionate software engineer, focussing on front-end development.
+
+I _love_ quality, and _loathe_ the throwaway culture. My motto is "build once, build right"; if you build it right the first time, you don't need to keep on revisiting and rebuilding.
+
+Crucially, this means #useThePlatform. When you build with native tools, rather than libraries, you build for the long term. You build to last.
 
 - 🔭 I’m currently working on [a front-end framework](https://github.com/andyjessop/pivot) that encourages long-lived, decoupled code for SPAs.
 - 🌱 I’m starting to write down thoughts, ideas, and experiences. You can find them on my DEV.to page [here](https://dev.to/andyjessop).
