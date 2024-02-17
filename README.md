@@ -25,12 +25,16 @@ Crucially, this means #useThePlatform. When you build with native tools, rather 
 - 💬 Get in touch if you want to discuss any of my projects or interests.
 
 ## Education
-**BEng Electronic Engineering (1st Class Honours), University of Leeds, UK**  
+**BEng Electronic Engineering (1st Class Honours), University of Leeds, UK** 
+
 1999-2003
+
 Dissertation: Implementation of a Cryptographic Algorithm Utilising the Fast Fourier Transform
 
 **MSc Nanoscale Science and Technology, University of Sheffield, UK**
+
 2003-2004
+
 Course Work: Manipulation of Gold Particles Using an Atomic Force Microscope
 
 ## Experience
