@@ -6,7 +6,7 @@ I _love_ quality, and _loathe_ the throwaway culture. I believe you should "buil
 
 Crucially, this means #useThePlatform. When you build with native tools, rather than libraries, you build for the long term. You build to last.
 
-- 🔭 I’m currently working on [a front-end framework](https://github.com/andyjessop/pivot) that encourages long-lived, decoupled code for SPAs.
+- 🔭 I’m currently working on [a minimal front-end framework](https://github.com/andyjessop/pivot) that encourages long-lived, decoupled code for SPAs.
 - 🌱 I’m starting to write down thoughts, ideas, and experiences. You can find them on my DEV.to page [here](https://dev.to/andyjessop).
   - [Creating a Smart Second Brain: Leveraging Cloudflare Workers, Vectorize, and OpenAI](https://dev.to/andyjessop/building-an-ai-powered-second-brain-in-a-cloudflare-worker-with-cloudflare-vectorize-and-openai-23di)
   - [OKRs: A Framework for Avoiding Micromanagement and Unlocking Creativity](https://dev.to/andyjessop/okrs-a-framework-for-avoiding-micromanagement-and-unlocking-creativity-2kpb)
