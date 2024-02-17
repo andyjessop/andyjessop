@@ -26,15 +26,15 @@ Crucially, this means #useThePlatform. When you build with native tools, rather 
 
 ## Education
 **BEng Electronic Engineering (1st Class Honours), University of Leeds, UK** 
-
+<br>
 1999-2003
-
+<br>
 Dissertation: Implementation of a Cryptographic Algorithm Utilising the Fast Fourier Transform
 
 **MSc Nanoscale Science and Technology, University of Sheffield, UK**
-
+<br>
 2003-2004
-
+<br>
 Course Work: Manipulation of Gold Particles Using an Atomic Force Microscope
 
 ## Experience
