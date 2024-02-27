@@ -16,7 +16,7 @@ Crucially, this means #useThePlatform. When you build with native tools, rather 
 - 👯 I'm interested in tooling, infrastructure, productivity, and of course...AI.
 - Some tools I'm currently into:
 
-    [![My Skills](https://skillicons.dev/icons?i=cloudflare,githubactions,deno,devto,lit,postgres,react,supabase,ts,workers&perline=11)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=cloudflare,go,githubactions,deno,devto,lit,postgres,react,supabase,ts,workers&perline=11)](https://skillicons.dev) 
 
 - And some that I want to get more into over the coming months and years:
 
