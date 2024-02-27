@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andy, a passionate software engineer, focussing on front-end development.
+I'm Andy, a dedicated technical lead with over 10 years of experience in software engineering, specialising in creating maintainable, accessible, testable, and performant web applications.
 
 I _love_ quality, and _loathe_ the throwaway culture. I believe you should "build it once, build it right"; if you build it right the first time, you don't need to keep on revisiting and rebuilding.
 
