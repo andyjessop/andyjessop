@@ -34,8 +34,11 @@ Dissertation: Implementation of a Cryptographic Algorithm Utilising the Fast Fou
 
 ## Experience
 
+### Cloudflare, Senior Systems Engineer
+_May 2024 - Present_
+
 ### Orange Logic (Remote), Technical Lead
-_December 2023 - Present_  
+_December 2023 - April 2024_ (5m)
 - **Led technical planning and execution** for the **core web components design system**, enhancing developer productivity and reducing technical debt organisation-wide.
 - Architected the CI/CI pipeline in Azure.
 - <u>Leveraged knowledge in</u>: Web Components, Lit, React, TypeScript, Azure Pipelines, Bun, Playwright, Nx.
