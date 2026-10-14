@@ -2,11 +2,11 @@
 
 I'm Andy, a Staff Engineer at Cense with over 16 years of experience building maintainable, accessible, testable, and performant software.
 
-I’ve spent time at companies including Cloudflare, Glassnode, Chess.com, and Orange Logic, working across product engineering, infrastructure, tooling, design systems, CI, performance, and developer experience.
+I’ve spent time at companies including Cense, Cloudflare, Glassnode, and Chess.com, working across product engineering, infrastructure, tooling, design systems, CI, performance, and developer experience.
 
 I love experimenting, building, and learning through fast iteration. I’m especially interested in tooling, infrastructure, productivity, AI, and the future of how we build software.
 
-I care deeply about quality and longevity. I prefer simple, durable systems built on strong foundations: use the platform, reduce unnecessary complexity, and make the right thing easy.
+I care deeply about quality and longevity. I prefer simple, durable systems built on strong foundations: reduce unnecessary complexity and make the right thing easy.
 
 ## What I’m interested in
 
